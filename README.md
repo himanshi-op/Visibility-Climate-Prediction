@@ -14,7 +14,7 @@ Evaluated the model using key metrics such as precision, recall, and accuracy.
 ### 🔍 Correlation Heatmap of Weather Features
 
 This heatmap highlights the relationships between various weather variables. Features like **Dry Bulb Temperature**, **Dew Point**, and **Wind Speed** show moderate to strong correlations, helping us identify impactful predictors for visibility.
-![Correlation Heatmap](images/image.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ### 📊 Distribution of Key Weather Variables
 
